@@ -4,11 +4,11 @@ const String appbartitle = 'Prime Web';
 const String andoidPackageName = 'com.wrteam.prime_web';
 
 //change this url to set your URL in app
-String webinitialUrl = 'https://wrteam.in/';
+String webinitialUrl = 'https://harleydrivertrainingapp.uk/1/';
 const String firstTabUrl = 'https://www.google.com';
 
 //keep local content of pages of setting screen
-const String aboutPageURL = 'https://wrteam.in/about-us/';
+const String aboutPageURL = 'https://harleydrivertrainingapp.uk/1/;
 const String privacyPageURL = '';
 const String termsPageURL = '';
 
