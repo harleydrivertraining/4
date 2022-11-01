@@ -14,7 +14,7 @@ class ShopPage extends StatelessWidget {
   Widget _buildWebView() {
     return WebView(
       javascriptMode: JavascriptMode.unrestricted,
-      initialUrl: 'https://himdeve.eu',
+      initialUrl: 'https://harleydrivertrainingapp.uk/1/',
     );
   }
 }
